@@ -1,0 +1,21 @@
+{
+  "nrf-connect.topdir": "${nrf-connect.sdk:2.4.2}",
+  "nrf-connect.toolchain.path": "${nrf-connect.toolchain:2.4.0}",
+  "files.associations": {
+    "kernel.h": "c",
+    "acceleration_unit.h": "c",
+    "unit_communication.h": "c",
+    "acceleration_service.h": "c",
+    "callback_registry.h": "c",
+    "listener_registry.h": "c",
+    "syscall.h": "c",
+    "sections.h": "c",
+    "array": "c",
+    "string_view": "c",
+    "initializer_list": "c",
+    "printk.h": "c",
+    "acc_unit_commands.h": "c",
+    "command_def_registry.h": "c",
+    "unitree.h": "c"
+  }
+}
