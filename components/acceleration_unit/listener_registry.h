@@ -10,7 +10,6 @@
 
 struct listener_t {
     uint16_t event_id;
-    int (*cb)(const void* event);
     struct k_msgq *event_q;
 };
 

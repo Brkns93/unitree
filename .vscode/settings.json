@@ -16,6 +16,10 @@
     "printk.h": "c",
     "acc_unit_commands.h": "c",
     "command_def_registry.h": "c",
-    "unitree.h": "c"
-  }
+    "unitree.h": "c",
+    "battery_unit.h": "c",
+    "battery_unit_commands.h": "c",
+    "functional": "c"
+  },
+  "cmake.configureOnOpen": true
 }
